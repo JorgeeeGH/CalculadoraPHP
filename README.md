@@ -5,7 +5,7 @@ Este proyecto va a ser realizado por mí, pero usando dos cuentas diferentes de 
 - **JorgeeeGH**
 - **Jorggahe**
 
-Este repositorio incluirá todos los archivos necesarios (html, css y php) necesarios para garantizar el correcto funcionamiento de la aplicación web.
+Este repositorio incluirá todos los archivos (html, css y php) necesarios para garantizar el correcto funcionamiento de la aplicación web.
 Además, contendrá otros archivos como:
 - Guías de uso.
 - Manual técnico.
