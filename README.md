@@ -1,4 +1,4 @@
-# CALCULADORA EN PHP :albania:
+# CALCULADORA EN PHP :orange_circle:
 ## En este proyecto vamos a realizar una calculadora básica totalmente funcional, utilizando PHP para el funcionamiento y HTML y CSS para el diseño.
 
 Este proyecto va a ser realizado por mí, pero usando dos cuentas diferentes de GitHub, para simular un ejemplo real de trabajo en grupo usando esta herramienta:
